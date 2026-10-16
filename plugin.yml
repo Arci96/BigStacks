@@ -1,0 +1,9 @@
+name: BigStacks
+version: '${project.version}'
+main: dev.bigstacks.BigStacksPlugin
+api-version: '1.21.11'
+description: Auto-Pickup fuer abgebaute Bloecke und groessere Stacks (bis 99).
+permissions:
+  bigstacks.autopickup:
+    description: Abgebaute Bloecke landen direkt im Inventar
+    default: true

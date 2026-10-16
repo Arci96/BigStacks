@@ -1,0 +1,8 @@
+# Maximale Stackgroesse (Minecraft erlaubt technisch maximal 99!)
+max-stack-size: 99
+
+# Abgebaute Bloecke direkt ins Inventar
+auto-pickup: true
+
+# Wie oft (in Ticks) Spieler-Inventare und offene Kisten umgestellt werden (20 = 1 Sekunde)
+normalize-interval-ticks: 20
